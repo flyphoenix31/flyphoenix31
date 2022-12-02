@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=720&lines=I+am+a+Senior+Full+Stack+Developer;6+years+of+Experiences+in+Web+and+Blockchain." alt="Typing SVG" /></a>
 </div>
 <p align="center">
-  <a href="https://github.com/bbshark99">
+  <a href="https://github.com/flyphoenix31">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=bbshark99&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="180px"/>
   </a>
 </p>
@@ -11,7 +11,7 @@
 ## Languages & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,py,c,cs,cpp,java,angular,vue,laravel,wordpress,bootstrap,tailwind,jquery,mysql,sqlite,ruby,rails,powershell,qt,vscode,androidstudio,eclipse,linux,unity,aws" />
+    <img src="https://skillicons.dev/icons?i=php,py,c,cs,cpp,java,angular,vue,laravel,wordpress,bootstrap,tailwind,jquery,mysql,sqlite,ruby,rails,powershell,qt,vscode,androidstudio,eclipse,linux,unity,aws,figma&theme=light" />
   </a>
   <div align="left">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
