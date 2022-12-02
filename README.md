@@ -2,11 +2,6 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=720&lines=I+am+a+Senior+Full+Stack+Developer;6+years+of+Experiences+in+Web+and+Blockchain." alt="Typing SVG" /></a>
 </div>
-<p align="center">
-  <a href="https://github.com/flyphoenix31">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=flyphoenix31&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="180px"/>
-  </a>
-</p>
 
 ## Languages & Tools
 <p align="left">
