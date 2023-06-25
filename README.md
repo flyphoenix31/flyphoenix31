@@ -25,7 +25,8 @@
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
     <div/>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=php,py,c,cs,cpp,java,angular,vue,laravel,bootstrap,tailwind,jquery,mysql,sqlite,powershell,qt,vscode,androidstudio,eclipse,figma&theme=light" />
+        <img src="https://skillicons.dev/icons?i=py,django,nodejs,express,go,ruby,mongodb,mongodb,redis,sqlite,supabase,react,nextjs,angular,vue,nuxtjs,tailwind&theme=light" />
+<!--         <img src="https://skillicons.dev/icons?i=aws,py,django,php,c,cs,cpp,java,angular,vue,laravel,bootstrap,tailwind,jquery,mysql,sqlite,powershell,qt,vscode,androidstudio,eclipse,figma&theme=light" /> -->
     </a>
 </p>
 <br><br>
