@@ -30,6 +30,9 @@
     </a>
 </p>
 <br><br>
+<div align="center">
+	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
+</div>
 
 <!--
 **flyphoenix31/flyphoenix31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
